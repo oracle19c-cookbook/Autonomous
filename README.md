@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-
-<html>
-
-<body>
-    
 ## 소개
 
 <p align="center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZtK4_0ZEfTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
@@ -63,6 +57,3 @@
 - 기타
     - Cloud Essentials: [Run Critical Databases in the Cloud](http://www.oracle.com/us/solutions/cloud-essentials-data-mgmt-3901529.pdf)
     - Infographic: [Discover new roads with an autonomous database](https://www.oracle.com/a/ocom/docs/cloud/do-more-with-oci-adb-Infographic.pdf)
-
-</body>
-</html>
