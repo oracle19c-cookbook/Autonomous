@@ -1,23 +1,6 @@
----
-title: 'Autonomous Database'
-output: 
-  html_notebook: 
-    code_folding: none
-    df_print: paged
-    toc: yes
-    toc_depth: 5
-    toc_float: true
----
-
----
-
 ## 소개
 
----
-
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZtK4_0ZEfTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
----
 
 오늘 날 다양한 산업과 업무 분야에 인공 지능을 기반으로 하는 플랫폼, 애플리케이션 및 툴들이 빠른 속도로 등장하고 발전하고 있습니다. 오라클 Autonomous Database는 오라클이 세계 최초로 머신 러닝과 AI 기술을 데이터베이스 플랫폼에 적용함으로써 탄생한 클라우드 데이터베이스 서비스입니다. 
 
@@ -28,8 +11,6 @@ output:
 - 이와 같은 자율 운영의 제 1 목표는 IT 관리자 또는 데이터베이스 관리자 (DBA)에 의해 전통적으로 수행되어 왔던 일상적인 관리 작업에 드는 노력을 최대한 제거하여 기업의 역량을 **운영이 아닌 혁신**에 집중할 수 있도록 돕는 것입니다.
 
 ## Hands-On
-
----
 
 #### Autonomous Data Warehouse 
 
@@ -62,8 +43,6 @@ output:
 - [SQL 문장 실행하기](https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/oml/OMLRS-run-sql-statements/html/index.html)
 
 ## 참고 자료
-
----
 
 - 공식 매뉴얼
     - [Autonomous Data Warehouse](https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/)
