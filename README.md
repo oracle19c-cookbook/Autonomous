@@ -1,6 +1,6 @@
 ## 소개
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZtK4_0ZEfTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZtK4_0ZEfTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 오늘 날 다양한 산업과 업무 분야에 인공 지능을 기반으로 하는 플랫폼, 애플리케이션 및 툴들이 빠른 속도로 등장하고 발전하고 있습니다. 오라클 Autonomous Database는 오라클이 세계 최초로 머신 러닝과 AI 기술을 데이터베이스 플랫폼에 적용함으로써 탄생한 클라우드 데이터베이스 서비스입니다. 
 
