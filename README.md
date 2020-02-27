@@ -45,7 +45,7 @@
 - 공식 매뉴얼
     - [Autonomous Data Warehouse](https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/)
     - [Autonomous Transaction Processing](https://docs.oracle.com/en/cloud/paas/atp-cloud/index.html)
-- White Papaper 
+- 백서 
     - [Oracle Autonomous Database Technical Overview](https://www.oracle.com/a/ocom/docs/database/oracle-autonomous-database-technical-overview.pdf)
     - [Oracle Autonomous Database Strategy](https://www.oracle.com/a/ocom/docs/database/oracle-autonomous-database-strategy-wp.pdf)
     - [Oracle Autonomous Database: The Industry's First Self Securing Database](https://www.oracle.com/a/ocom/docs/database/autonomous-database-self-securing-wp.pdf)
